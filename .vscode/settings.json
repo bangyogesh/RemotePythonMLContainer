@@ -1,0 +1,4 @@
+{
+    "docker.host": "tcp://172.10.10.3:2375",
+    "docker.tlsVerify": ""
+}
